@@ -1,2 +1,6 @@
 github.com/gen2brain/raylib-go/raylib v0.0.0-20220601234331-25dea46fc2d9 h1:27koIsxg4DkkJ5kq3zibpuVSGln1f0YOGQTTuEsuAsY=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20220601234331-25dea46fc2d9/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible h1:91Uy4d9SYVr1kyTJ15wJsog+esAZZl7JmEfTkwmhJts=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible/go.mod h1:JVvhzYOiGBnFSYRyV00iY8q7/0PThjIYav1p9h5dmKs=
+github.com/pyros2097/go-embed v0.0.0-20210109052941-d7cf67a0c154 h1:CcxaLLZjFFnugPFfiZ46nLBrGcgtPeA7Qk8cjtif/tA=
+github.com/pyros2097/go-embed v0.0.0-20210109052941-d7cf67a0c154/go.mod h1:/Pm5mr3VMg5ErYEDpCZGgWmp7vwN6VpcOG05QVhT37A=

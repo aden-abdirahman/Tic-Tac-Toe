@@ -54,6 +54,10 @@ func main() {
 	x := rl.LoadTexture("assets/x.png")
 	o := rl.LoadTexture("assets/o.png")
 
+	// setting path for executable(will update and compile images with binary using bindata or something)
+	// x = rl.LoadTexture("/Users/Abdirahman/Desktop/Go Projects/Tic-Tac-Toe/assets/x.png")
+	// o = rl.LoadTexture("/Users/Abdirahman/Desktop/Go Projects/Tic-Tac-Toe/assets/o.png")
+
 	// initializing the game board and setting positions to zero
 	var positions int = 0
 	board := [3][3]Cell{}
